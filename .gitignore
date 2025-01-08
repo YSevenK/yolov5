@@ -26,13 +26,13 @@
 storage.googleapis.com
 runs/*
 data/*
-data/images/*
+data/imagesss/*
 !data/*.yaml
 !data/hyps
 !data/scripts
-!data/images
-!data/images/zidane.jpg
-!data/images/bus.jpg
+!data/imagesss
+!data/imagesss/zidane.jpg
+!data/imagesss/bus.jpg
 !data/*.sh
 
 results*.csv
